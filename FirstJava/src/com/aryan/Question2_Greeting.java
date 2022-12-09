@@ -12,6 +12,7 @@ public class Question2_Greeting {
         System.out.println("My name is Aryan");
         System.out.println("Hello World");
         System.out.println("Zinnia");
+        System.out.println("New");
         
     }
 }
