@@ -16,5 +16,3 @@ public class Question3_Simple_Interest {
         System.out.println("Simple Interest is : " + simple);
     }
 }
-
-
