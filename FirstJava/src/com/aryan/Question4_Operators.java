@@ -33,6 +33,5 @@ public class Question4_Operators {
             default -> System.out.println("Invalid choice");
         }
 */
-        System.out.println("My name is aryan");
     }
 }
