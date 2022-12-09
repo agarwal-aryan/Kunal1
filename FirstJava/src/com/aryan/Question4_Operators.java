@@ -23,5 +23,15 @@ public class Question4_Operators {
         } else {
             System.out.println("Invalid choice");
         }
+        /*
+ second method
+        switch (c) {
+            case "+" -> System.out.println(a + b);
+            case "-" -> System.out.println(a - b);
+            case "*" -> System.out.println(a * b);
+            case "/" -> System.out.println(a / b);
+            default -> System.out.println("Invalid choice");
+        }
+*/
     }
 }
