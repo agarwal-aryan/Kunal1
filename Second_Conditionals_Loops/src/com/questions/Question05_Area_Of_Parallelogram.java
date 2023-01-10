@@ -2,7 +2,7 @@ package com.questions;
 
 import java.util.Scanner;
 
-public class Question5_Area_Of_Parallelogram {
+public class Question05_Area_Of_Parallelogram {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the height of parallelogram: ");

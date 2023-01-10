@@ -2,7 +2,7 @@ package com.questions;
 
 import java.util.Scanner;
 
-public class Question8_Perimeter_Of_Circle {
+public class Question08_Perimeter_Of_Circle {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter Radius of the Circle: ");

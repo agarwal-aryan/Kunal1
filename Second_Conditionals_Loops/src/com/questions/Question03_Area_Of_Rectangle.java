@@ -2,7 +2,7 @@ package com.questions;
 
 import java.util.Scanner;
 
-public class Question3_Area_Of_Rectangle {
+public class Question03_Area_Of_Rectangle {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter Length of the Rectangle: ");

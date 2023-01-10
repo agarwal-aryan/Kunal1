@@ -3,7 +3,7 @@ package com.questions;
 import java.util.Scanner;
 import java.lang.Math;
 
-public class Question4_Area_Of_Isosceles_Triangle {
+public class Question04_Area_Of_Isosceles_Triangle {
     public static void main(String[] args) {
         System.out.println("\nIsosceles Triangle Area Calculator\n");
         Scanner input = new Scanner(System.in);

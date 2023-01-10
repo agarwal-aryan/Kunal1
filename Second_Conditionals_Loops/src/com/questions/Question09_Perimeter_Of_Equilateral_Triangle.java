@@ -2,7 +2,7 @@ package com.questions;
 
 import java.util.Scanner;
 
-public class Question9_Perimeter_Of_Equilateral_Triangle {
+public class Question09_Perimeter_Of_Equilateral_Triangle {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter side of Triangle: ");
