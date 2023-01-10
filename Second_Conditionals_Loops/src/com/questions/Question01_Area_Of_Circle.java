@@ -2,7 +2,7 @@ package com.questions;
 
 import java.util.Scanner;
 
-public class Question01_Area_Circle {
+public class Question01_Area_Of_Circle {
     //Area Of Circle Java Program
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
