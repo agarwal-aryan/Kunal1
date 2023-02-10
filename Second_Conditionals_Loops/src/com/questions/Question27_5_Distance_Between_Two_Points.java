@@ -2,7 +2,7 @@ package com.questions;
 
 import java.util.Scanner;
 
-public class Question31_1_Distance_Between_Two_Points {
+public class Question27_5_Distance_Between_Two_Points {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter x1 Coordinate: ");

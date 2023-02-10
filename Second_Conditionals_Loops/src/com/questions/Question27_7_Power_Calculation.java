@@ -2,7 +2,7 @@ package com.questions;
 
 import java.util.Scanner;
 
-public class Question33_1_Power_Calculation {
+public class Question27_7_Power_Calculation {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter Number: ");

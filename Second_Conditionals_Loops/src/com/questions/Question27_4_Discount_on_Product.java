@@ -2,7 +2,7 @@ package com.questions;
 
 import java.util.Scanner;
 
-public class Question30_1_Discount_on_Product {
+public class Question27_4_Discount_on_Product {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter MRP of the Product: ");

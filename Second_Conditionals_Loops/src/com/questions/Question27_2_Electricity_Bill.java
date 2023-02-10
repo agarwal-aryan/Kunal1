@@ -2,7 +2,7 @@ package com.questions;
 
 import java.util.Scanner;
 
-public class Question28_1_Electricity_Bill {
+public class Question27_2_Electricity_Bill {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter rate of per unit Electricity: ");

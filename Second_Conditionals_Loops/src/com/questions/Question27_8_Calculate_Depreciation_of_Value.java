@@ -2,7 +2,7 @@ package com.questions;
 
 import java.util.Scanner;
 
-public class Question34_1_Calculate_Depreciation_of_Value {
+public class Question27_8_Calculate_Depreciation_of_Value {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the original Cost of the Product: ");

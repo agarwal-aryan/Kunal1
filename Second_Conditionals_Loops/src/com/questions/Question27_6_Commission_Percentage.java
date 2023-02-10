@@ -2,7 +2,7 @@ package com.questions;
 
 import java.util.Scanner;
 
-public class Question32_1_Commission_Percentage {
+public class Question27_6_Commission_Percentage {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the cost of Product: ");

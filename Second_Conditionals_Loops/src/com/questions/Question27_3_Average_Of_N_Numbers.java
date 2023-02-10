@@ -2,7 +2,7 @@ package com.questions;
 
 import java.util.Scanner;
 
-public class Question29_1_Average_Of_N_Numbers {
+public class Question27_3_Average_Of_N_Numbers {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter number of times you want to enter Number: ");
